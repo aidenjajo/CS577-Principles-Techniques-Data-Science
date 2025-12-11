@@ -2,10 +2,6 @@
 MNIST Digit Classification using Convolutional Neural Network
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This assignment implements a Convolutional Neural Network (CNN) using
-TensorFlow/Keras for handwritten digit recognition on the MNIST dataset.
-
 Author: Aiden Jajo
 Date: April 20, 2025
 """
