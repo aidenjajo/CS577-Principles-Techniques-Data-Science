@@ -2,17 +2,6 @@
 Regression Models Comparison Assignment
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This script implements and compares multiple regression algorithms:
-- Random Forest Regression
-- Decision Tree Regression
-- Multiple Linear Regression
-- Polynomial Regression
-- Support Vector Regression (SVR)
-
-Dataset: Combined Cycle Power Plant Dataset
-Task: Predict electrical power output based on environmental conditions
-
 Author: Aiden
 Date: February 2025
 """
