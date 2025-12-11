@@ -2,8 +2,8 @@
 Data Preprocessing Assignment
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-Author: Aiden
-Date: February 2025
+Author: Aiden Jajo
+SPring 2025
 """
 
 # ============================================================================
