@@ -2,15 +2,6 @@
 Fraud Detection with Imbalanced Data Handling
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This assignment demonstrates techniques for handling imbalanced datasets
-using SMOTE (Synthetic Minority Over-sampling Technique) to improve
-fraud detection in credit card transactions.
-
-Models Implemented:
-- Baseline Random Forest (on imbalanced data)
-- SMOTE-Enhanced Random Forest (on balanced data)
-
 Author: Aiden
 Date: October 2024
 """
