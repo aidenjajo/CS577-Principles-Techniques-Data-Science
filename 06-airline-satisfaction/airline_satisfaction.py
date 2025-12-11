@@ -2,15 +2,6 @@
 Airline Passenger Satisfaction Prediction
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This assignment predicts airline passenger satisfaction using advanced
-classification algorithms with comprehensive data preprocessing including
-outlier removal, missing value imputation, and categorical encoding.
-
-Models Implemented:
-- Random Forest Classifier (with GridSearchCV)
-- XGBoost Classifier (with GridSearchCV)
-
 Author: Aiden
 Date: October 2024
 """
