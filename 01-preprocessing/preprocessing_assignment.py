@@ -2,13 +2,6 @@
 Data Preprocessing Assignment
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This script demonstrates fundamental data preprocessing techniques including:
-- Handling missing values
-- Encoding categorical variables
-- Train-test splitting
-- Feature scaling
-
 Author: Aiden
 Date: February 2025
 """
