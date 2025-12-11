@@ -2,8 +2,8 @@
 Customer Churn Prediction using Artificial Neural Network
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-Author: Aiden
-Date: April 2025
+Author: Aiden Jajo
+Spring 2025
 """
 
 # ============================================================================
