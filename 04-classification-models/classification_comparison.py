@@ -2,8 +2,8 @@
 Classification Models Comparison
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-Author: Aiden
-Date: October 2024
+Author: Aiden Jajo
+Spring 2025
 """
 
 # ============================================================================
