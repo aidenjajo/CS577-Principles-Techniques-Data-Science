@@ -1,7 +1,7 @@
 """
 CIFAR-10 Image Classification using CNN
 CS577-01: Principles and Techniques of Data Science
-San Diego State University - Final Exam
+San Diego State University
 Author: Aiden Jajo
 Spring 2025
 """
