@@ -2,12 +2,6 @@
 Homework 2: Regression Techniques
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This assignment implements three types of regression:
-- Part A: Simple Linear Regression (Salary vs. Years of Experience)
-- Part B: Multiple Linear Regression (Startup Profit Prediction)
-- Part C: Polynomial Regression (Position Level vs. Salary)
-
 Author: Aiden
 Date: February 2025
 """
