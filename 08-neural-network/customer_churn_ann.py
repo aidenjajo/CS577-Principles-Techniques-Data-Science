@@ -2,16 +2,6 @@
 Customer Churn Prediction using Artificial Neural Network
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This assignment implements a deep learning model using TensorFlow/Keras
-to predict customer churn for a bank. The project demonstrates fundamental
-concepts in neural network architecture, training, and evaluation.
-
-Model Architecture:
-- Input Layer: 11 features
-- 3 Hidden Layers: 6 neurons each with ReLU activation
-- Output Layer: 1 neuron with Sigmoid activation (binary classification)
-
 Author: Aiden
 Date: April 2025
 """
