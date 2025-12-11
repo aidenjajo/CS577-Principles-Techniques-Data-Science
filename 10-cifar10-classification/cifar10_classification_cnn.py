@@ -2,14 +2,8 @@
 CIFAR-10 Image Classification using CNN
 CS577-01: Principles and Techniques of Data Science
 San Diego State University - Final Exam
-
-This assignment implements a deep Convolutional Neural Network for
-multi-class image classification on the CIFAR-10 dataset, achieving
-~81% test accuracy.
-
 Author: Aiden Jajo
-Professor: Pishgar
-Date: April 30, 2025
+Spring 2025
 """
 
 # ============================================================================
