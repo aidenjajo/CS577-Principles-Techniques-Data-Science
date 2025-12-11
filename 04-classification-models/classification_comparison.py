@@ -2,18 +2,6 @@
 Classification Models Comparison
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This assignment implements and compares multiple classification algorithms
-to predict purchasing behavior based on age and estimated salary.
-
-Models Evaluated:
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (Linear & RBF)
-- Decision Tree
-- Random Forest
-- Naive Bayes
-
 Author: Aiden
 Date: October 2024
 """
