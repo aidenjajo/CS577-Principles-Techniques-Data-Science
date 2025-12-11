@@ -2,8 +2,8 @@
 Homework 2: Regression Techniques
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-Author: Aiden
-Date: February 2025
+Author: Aiden Jajo
+Spring 2025
 """
 
 # ============================================================================
