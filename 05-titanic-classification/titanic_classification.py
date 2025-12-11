@@ -2,18 +2,6 @@
 Titanic Survival Prediction - Classification Analysis
 CS577-01: Principles and Techniques of Data Science
 San Diego State University
-
-This assignment implements multiple classification algorithms to predict
-passenger survival on the Titanic disaster using demographic and ticket data.
-
-Models Implemented:
-- Support Vector Machine (SVM)
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Tree
-- Random Forest
-- Naive Bayes
-
 Author: Aiden
 Date: October 2024
 """
